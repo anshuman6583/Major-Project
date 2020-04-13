@@ -12,6 +12,12 @@ Description : Creating User Management System
 
 ---------------------------------------------------------------
 
+To intall necessay files for the project :
+1. Run the command - npm install requirements.txt in terminal.
+
+
+--------------------------------------------------------------
+
 Database Details:
 
 Database name: student_info
